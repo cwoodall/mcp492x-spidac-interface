@@ -1,1 +1,3 @@
-= HEllo =
+= MCP492x SPI DAC Interface for AVR Microcontrollers =
+
+[http://www.happyrobotlabs.com Happy Robot Labs]
